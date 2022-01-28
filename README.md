@@ -24,7 +24,7 @@ There are many ways to install it.
    ```git
    git clone https://github.com/shobanchiddarth/open_online_class_link.git
    ```
-2. Download [zip file](http://github.com/shobanchiddarth/open_online_class_link/zipball/master/)
+2. Download [zip file](https://github.com/ShobanChiddarth/open_online_class_link/archive/refs/heads/main.zip)
 3. There are 3 files, I have made it according to the timetable and subjects I had.
    
    - [subjects.txt](./subjects.txt)
