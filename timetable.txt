@@ -1,0 +1,8 @@
+|     Time|9,30 - 10,30|10,30 - 10,50|10,50 - 11,50|11,50 - 12,50|12,50 - 13,40|13,40 - 14,40|14,40 - 14,50|14,50 - 15,50|
+|Day      |            |             |             |             |             |             |             |             |
+|MONDAY   |CHEMISTRY   |noclass      |CS           |ENGLISH      |noclass      |PHYSICS      |noclass      |MATH         |
+|TUESDAY  |MATH        |noclass      |CHEMISTRY    |PHYSICS      |noclass      |CS           |noclass      |ENGLISH      |
+|WEDNESDAY|MATH        |noclass      |CHEMISTRY    |PHYSICS      |noclass      |PHYSICS      |noclass      |CS           |
+|THURSDAY |PHYSICS     |noclass      |MATH         |CS           |noclass      |CHEMISTRY    |noclass      |ENGLISH      |
+|FRIDAY   |CS          |noclass      |PHYSICS      |CHEMISTRY    |noclass      |ENGLISH      |noclass      |MATH         |
+|SATURDAY |CHEMISTRY   |noclass      |MATH         |PHYSICS      |noclass      |ENGLISH      |noclass      |CS           |
