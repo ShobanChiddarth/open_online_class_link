@@ -1,4 +1,4 @@
-# open_online_class_link
+# Open Online Class Link
 
 ![CTech_ZoomMeetingBlog](https://github.com/ShobanChiddarth/open_online_class_link/assets/68191453/b8d57e23-56de-4c9d-86ea-40e7f75b21c5)
 
