@@ -1,5 +1,8 @@
 # open_online_class_link
 
+![CTech_ZoomMeetingBlog](https://github.com/ShobanChiddarth/open_online_class_link/assets/68191453/b8d57e23-56de-4c9d-86ea-40e7f75b21c5)
+
+
 Simple script that can help you to open online class links according to your timetable.
 This is for people who join recurring meetings i.e. the same meeting link multiple times for 
 different periods. This is not just for school students, it works also for job meetings. Just
